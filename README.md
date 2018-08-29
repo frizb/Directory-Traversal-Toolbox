@@ -40,7 +40,7 @@ Connecting to FTP Server at: 10.10.10.10
 ```
 
 ## lfi_tester.py  
-Simple pythin framework for testing web applications for LFI vulnerabilities.  
+Simple python framework for testing web applications for LFI vulnerabilities.  
 
 
 ## iWebLFI.py
