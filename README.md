@@ -2,7 +2,8 @@
 A few handy scripts for pulling important files off remote machines using a directory traversal or local file include vulnerability.
 
 
-## FTP Getter
+## FTP Directory Traversal Getter
+Downloads a list of files from a remote FTP server using a directory traversal vulnerabilty.
 ```
 FTP Directory Traversal File Getter 0.1 Updated: August 29, 2018
 usage: ftpgetter.py [-h] [-ip IP] [-port PORT] [-username USERNAME]
