@@ -1,0 +1,134 @@
+../../../../../../../../conf/server.xml
+../../windows/win.ini
+.cshrc
+Apache/conf/httpd.conf
+Apache/logs/access.log
+apache/logs/access.log
+Apache/logs/error.log
+apache/logs/error.log
+Apache2/conf/httpd.conf
+Apache2/logs/access.log
+Apache2/logs/error.log
+Apache22/conf/httpd.conf
+Apache22/logs/access.log
+Apache22/logs/error.log
+Apache24/conf/httpd.conf
+Apache24/logs/access.log
+Apache24/logs/error.log
+AppServ/MySQL
+boot.ini
+c:/Program Files (x86)/php/php.ini"
+core/config.php
+Documents and Settings/Administrator/NTUser.dat
+inetpub/ftproot/
+inetpub/wwwroot/global.asa
+inetpub/wwwroot/index.asp
+NetServer/bin/stable/apache/php.ini
+nginx.exe
+php/php.ini
+PHP/php.ini
+php4/php.ini
+php5/php.ini
+php7/php.ini
+Program Files (x86)/Apache Group/Apache/conf/httpd.conf
+Program Files (x86)/Apache Group/Apache/logs/access.log
+Program Files (x86)/Apache Group/Apache/logs/error.log
+Program Files (x86)/Apache Group/Apache2/conf/httpd.conf
+Program Files (x86)/Apache Group/Apache2/logs/access.log
+Program Files (x86)/Apache Group/Apache2/logs/error.log
+Program Files/Apache Group/Apache/conf/httpd.conf
+Program Files/Apache Group/Apache/conf/logs/access.log
+Program Files/Apache Group/Apache/conf/logs/error.log
+Program Files/Apache Group/Apache/logs/access.log
+Program Files/Apache Group/Apache/logs/error.log
+Program Files/Apache Group/Apache2/conf/httpd.conf
+Program Files/Apache Group/Apache2/conf/logs/access.log
+Program Files/Apache Group/Apache2/conf/logs/error.log
+Program Files/FileZilla Server/FileZilla Server.xml
+Program Files/MySQL/my.cnf
+Program Files/MySQL/my.ini
+Program Files/MySQL/MySQL Server 5.0/my.cnf
+Program Files/MySQL/MySQL Server 5.0/my.ini
+Program Files/MySQL/MySQL Server 5.1/my.cnf
+Program Files/MySQL/MySQL Server 5.1/my.ini
+Program Files/MySQL/MySQL Server 5.5/my.cnf
+Program Files/MySQL/MySQL Server 5.5/my.ini
+Program Files/MySQL/MySQL Server 5.6/my.cnf
+Program Files/MySQL/MySQL Server 5.6/my.ini
+Program Files/MySQL/MySQL Server 5.7/my.cnf
+Program Files/MySQL/MySQL Server 5.7/my.ini
+Program Files/php/php.ini
+Program Files/xampp/apache/conf/httpd.conf
+System32/Inetsrv/metabase.xml
+Users/Administrator/NTUser.dat
+Windows/debug/NetSetup.LOG
+Windows/Panther/Unattend/Unattended.xml
+Windows/Panther/Unattended.xml
+Windows/php.ini
+WINDOWS/php.ini
+Windows/repair/SAM
+Windows/repair/system
+WINDOWS/system32/
+Windows/System32/catroot2/dberr.txt
+Windows/System32/catroot2/edb.chk
+Windows/System32/catroot2/edb.log
+Windows/System32/catroot2/edb000D2.log
+Windows/System32/catroot2/edb000D3.log
+Windows/System32/catroot2/edb000D4.log
+Windows/System32/catroot2/edb000D5.log
+Windows/System32/catroot2/{F750E6C3-38EE-11D1-85E5-00C04FC295/catdb
+Windows/System32/CodeIntegrity/bootcat.cache
+Windows/System32/config/AppEvent.evt
+Windows/System32/config/BCD-Template
+Windows/System32/config/COMPONENTS
+Windows/System32/config/COMPONENTS.BAK
+Windows/System32/config/DEFAULT
+Windows/System32/config/DEFAULT.BAK
+Windows/System32/config/RegBack
+Windows/System32/config/RegBack/COMPONENTS
+Windows/System32/config/RegBack/COMPONENTS.OLD
+Windows/System32/config/RegBack/DEFAULT
+Windows/System32/config/RegBack/DEFAULT.OLD
+Windows/System32/config/RegBack/SAM
+Windows/System32/config/RegBack/SAM.OLD
+Windows/System32/config/RegBack/SECURITY
+Windows/System32/config/RegBack/SECURITY.OLD
+Windows/System32/config/RegBack/SOFTWARE
+Windows/System32/config/RegBack/SOFTWARE.OLD
+Windows/System32/config/RegBack/system
+Windows/System32/config/RegBack/SYSTEM
+Windows/System32/config/RegBack/SYSTEM.OLD
+Windows/System32/config/SAM
+Windows/System32/config/SAM.BAK
+Windows/System32/config/SecEvent.evt
+Windows/System32/config/SECURITY
+Windows/System32/config/SECURITY.BAK
+Windows/System32/config/SOFTWARE
+Windows/System32/config/SOFTWARE.BAK
+Windows/System32/config/SysEvent.evt
+Windows/System32/config/SYSTEM
+Windows/System32/config/SYSTEM.BAK
+Windows/System32/config/TxR
+Windows/System32/drivers/etc/hosts
+Windows/System32/FNTCACHE.DAT
+Windows/System32/license.rtf
+Windows/System32/perfc009.dat
+Windows/System32/perfh009.dat
+Windows/System32/PerfStringBackup.INI
+Windows/System32/winevt/Logs/Application.evtx
+Windows/System32/winevt/Logs/Security.evtx
+Windows/System32/winevt/Logs/System.evtx
+Windows/win.ini
+WINNT/php.ini
+xampp/apache/bin/php.ini
+xampp/apache/conf/extra/httpd-xampp.conf
+xampp/apache/conf/httpd.conf
+xampp/apache/logs/access.log
+xampp/apache/logs/error.log
+xampp/FileZillaFTP/FileZilla Server.xml
+xampp/MercuryMail/MERCURY.INI
+xampp/mysql/bin/my.ini
+xampp/php/php.ini
+xampp/security/webdav.htpasswd
+xampp/sendmail/sendmail.ini
+xampp/tomcat/conf/server.xml
