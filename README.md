@@ -39,6 +39,10 @@ FTP Directory Traversal File Getter 0.1 Updated: August 29, 2018
 Connecting to FTP Server at: 10.10.10.10
 ```
 
+## lfi_tester.py  
+Simple pythin framework for testing web applications for LFI vulnerabilities.  
+
+
 ## iWebLFI.py
 Exploit for the iWeb web server LFI vulnerability  
 https://www.exploit-db.com/exploits/10331/  
