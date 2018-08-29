@@ -38,3 +38,20 @@ FTP Directory Traversal File Getter 0.1 Updated: August 29, 2018
 Connecting to FTP Server at: 10.10.10.10
 ```
 
+## iWebLFI.py
+Exploit for the iWeb web server LFI vulnerability  
+https://www.exploit-db.com/exploits/10331/  
+
+
+## File lists  (great for LFI / Directory Traversal Attacks)  
+linux.txt - Handy list of important files found on Linux  
+windows.txt - Handy list of important files found on Windows  
+file_n_dirs.csv - List of files and dirs for use with the iWebLFI exploit  
+
+
+
+
+
+
+
+
