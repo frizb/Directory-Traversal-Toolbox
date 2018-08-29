@@ -4,7 +4,7 @@ import sys
 #https://github.com/fuzzdb-project/fuzzdb/blob/master/attack/lfi/JHADDIX_LFI.txt
 #https://github.com/danielmiessler/SecLists/blob/49a6d721ffa86a2aee5e7406445dc758f3d91b52/Discovery/Web-Content/nginx.txt
 lfi_tests_file = "lfi_tests.txt"
-lfi_test_url = "https://192.168.38.67/index.php?page="
+lfi_test_url = "https://10.10.10.10/index.php?page="
 
 def checkLFI(lfi_path):
     print "Checking: " + lfi_path + "\t\t",
